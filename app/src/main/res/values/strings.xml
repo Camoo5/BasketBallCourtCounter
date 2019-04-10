@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasketBall CourtCounter</string>
+    <string name="a_team">Team A</string>
+    <string name="team_a_score">0</string>
+    <string name="team_a_points1">+3 POINTS</string>
+    <string name="team_a_points2">+2 POINTS</string>
+    <string name="free_throw_a">FREE THROW</string>
+    <string name="b_team">Team B</string>
+    <string name="team_b_score">0</string>
+    <string name="team_b_points1">+3 POINTS</string>
+    <string name="team_b_points2">+2 POINTS</string>
+    <string name="free_throw_b">FREE THROW</string>
+    <string name="action_settings">RESET</string>
+</resources>
